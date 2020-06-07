@@ -20,5 +20,6 @@ This will allow you to calibrate and play with the functionality.
 
 
 ### `References`
-This was made possible with the [tutorial](https://medium.com/better-programming/track-your-smartphone-in-2d-with-javascript-1ba44603c0df)
+This was made possible with the [tutorial](https://medium.com/better-programming/track-your-smartphone-in-2d-with-javascript-1ba44603c0df).
+
 Thanks and credit to Sanjeet Chatterjee
